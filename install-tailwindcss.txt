@@ -1,0 +1,4 @@
+npm i -D tailwindcss postcss autoprefixer
+
+
+npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch

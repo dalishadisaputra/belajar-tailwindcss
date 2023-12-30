@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.kotak{
+   @apply h-[100px] rounded-lg bg-blue-500;
+}
